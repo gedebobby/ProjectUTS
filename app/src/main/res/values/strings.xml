@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">AndroStore</string>
+
+    <string-array name="data_sepatu">
+        <item>Nike Phantom Venom Academy FG</item>
+        <item>Nike Tiempo Legend 8 Academy MG</item>
+        <item>Nike Jr. Mercurial Superfly 7 Academy MG</item>
+        <item>PREDATOR MUTATOR 20+ FIRM GROUND CLEATS</item>
+        <item>ADIDAS X 19+ FIRM GROUND CLEATS</item>
+    </string-array>
+
+    <string-array name="data_benefits">
+        <item>Mesh upper with NIKESKIN overlay contours to your foot. \n
+                Instep ridges create spin for precise, powerful strikes.\n
+                Plate provides traction on firm-ground pitches. \n
+                Asymmetrical lacing system expands the striking area. \n
+                Stretchy mesh covers the lower half of the laces. \n
+                Colour Shown: Laser Crimson/Black/Metallic Silver \n
+                Style: AO0566-606 \n</item>
+        <item>For use on short-grass or artificial surfaces \n
+                Colour Shown: Laser Crimson/White/Black \n
+                Style: AT5292-606 \n
+                Country/Region of Origin: Vietnam \n</item>
+        <item>Regular fit \n
+Laceless construction \n
+adidas Primeknit upper \n
+Sock-fit collar \n
+Firm ground soccer cleats \n
+Demonskin rubber strike zone \n
+Firm ground outsole \n
+Imported \n
+Product color: Core Black / Cloud White / Active Red \n
+Product code: EF1565 \n</item>
+        <item>Sockliner for lightweight cushioning \n
+                Higher plate overlap on the toe for durability \n
+                For use on short-grass or artificial surfaces \n
+                Colour Shown: Blue Hero/Obsidian/White \n
+                Style: AT7946-414 \n
+                Country/Region of Origin: China \n</item>
+        <item>Medium fit \n
+Laceless construction \n
+Ultralight X-Layskin upper \n
+Lightweight firm ground soccer cleats \n
+Ultralight Speedframe outsole \n
+3D molded heel \n
+Imported \n
+Product color: Team Royal Blue / Cloud White / Core Black \n
+Product code: EG7137 \n</item>
+    </string-array>
+
+
+
+    <string-array name="data_harga">
+        <item>Rp. 1.500.000,00</item>
+        <item>Rp. 1.450.000,00</item>
+        <item>Rp. 2.500.000,00</item>
+        <item>Rp. 1.550.000,00</item>
+        <item>Rp. 1.450.000,00</item>
+    </string-array>
+
+    <string-array name="data_deskripsi">
+        <item>The Nike Phantom Venom Academy FG is engineered for powerful, precise strikes that win games. Ridges on the instep create spin to control the flight of the ball, while the firm-ground plate provides the traction needed to unleash at any moment.</item>
+        <item>The Nike Tiempo Legend 8 Academy MG takes the legendary touch of calfskin leather and adds a versatile multi-ground plate for traction on natural- and artificial-grass surfaces.</item>
+        <item>The Nike Phantom Venom Academy FG is engineered for powerful, precise strikes that win games. Ridges on the instep create spin to control the flight of the ball, while the firm-ground plate provides the traction needed to unleash at any moment.</item>
+        <item>Building on the forefoot plate innovation of the 6, the Nike Mercurial Superfly 7 Academy MG Boot adds a versatile multi-ground plate that provides traction on natural- and artificial-grass surfaces.</item>
+        <item></item>
+    </string-array>
+
+    <array name="data_gambar">
+        <item>@drawable/list_venom</item>
+        <item>@drawable/list_tiempo</item>
+        <item>@drawable/list_mercurial2</item>
+        <item>@drawable/list_predator2</item>
+        <item>@drawable/list_adix</item>
+    </array>
+    <string name="size">38, 39, 40, 41, 42, 43, 44, 45
+
+    </string>
+
+    <array name="data_gambar2">
+        <item>@drawable/nike1</item>
+        <item>@drawable/tiempo</item>
+        <item>@drawable/mercurial2</item>
+        <item>@drawable/predator</item>
+        <item>@drawable/adix</item>
+    </array>
+
+    <string name="nama_produk">Nike Phantom Venom Academy FG</string>
+    <string name="detail">The Nike Phantom Venom Academy FG is engineered for powerful, precise strikes that win games. Ridges on the instep create spin to control the flight of the ball, while the firm-ground plate provides the traction needed to unleash at any moment.</string>
+    <string name="benefits">Mesh upper with NIKESKIN overlay contours to your foot. \n
+                Instep ridges create spin for precise, powerful strikes.\n
+                Plate provides traction on firm-ground pitches. \n
+                Asymmetrical lacing system expands the striking area. \n
+                Stretchy mesh covers the lower half of the laces. \n
+                Colour Shown: Laser Crimson/Black/Metallic Silver \n
+                Style: AO0566-606 \n
+                Country/Region of Origin: Indonesia</string>
+
+    <string-array name="data_deskripsi2">
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium autem dignissimos eveniet, id illum odio rem saepe sunt velit voluptatibus!</item>
+        <item>des1 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet, sint.</item>
+        <item>des2 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, vel?</item>
+        <item>des3 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui, sapiente?</item>
+        <item>des4 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id, odio!</item>
+    </string-array>
+</resources>
